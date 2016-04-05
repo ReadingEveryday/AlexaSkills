@@ -1,0 +1,19 @@
+{
+  "name": "Shakespeare",
+  "version": "1.0.0",
+  "description": "Shakespeare quotes. Hear Alexa say it",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Xun",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^2.3.2",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "lodash": "^4.8.1",
+    "mocha": "^2.4.5",
+    "request-promise": "^2.0.1"
+  }
+}
